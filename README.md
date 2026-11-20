@@ -6,11 +6,11 @@ OBSA formalizes the *obligation* as an independent computational artifact occupy
 
 ## Specification
 
-**[OBSA Core Specification v0.3.0-draft](OBSA_Specification_v0.3.0-draft.md)** (this branch)
+**[OBSA Core Specification v0.3.1-draft](OBSA_Specification_v0.3.1-draft.md)** (this branch): adds admission by qualification, union qualification regions and margin criteria to 0.3.0. See its Revision History and Annex C.4.
 
-Earlier: [OBSA Minimum Viable Specification v0.1.0-draft](OBSA_Specification_v0.1.0-draft.md)
+Earlier: [OBSA Core Specification v0.3.0-draft](OBSA_Specification_v0.3.0-draft.md), [OBSA Minimum Viable Specification v0.1.0-draft](OBSA_Specification_v0.1.0-draft.md)
 
-> **Exploratory draft.** The `draft/0.3.0` branch is a preliminary working draft shared for review and discussion. It is not a release, it is not merged to `main`, and its content may change without notice.
+> **Exploratory draft.** The `draft/0.3.1` branch is a preliminary working draft shared for review and discussion. It is not a release, it is not merged to `main`, and its content may change without notice.
 
 ## Status
 
@@ -23,7 +23,7 @@ MIT License. See [LICENSE](LICENSE).
 ## Citation
 
 ```
-Substrata Labs LLC. (2026). OBSA: Obligation-Based Systems Assurance —
-Core Specification, Version 0.3.0-draft.
+Substrata Labs LLC. (2026). OBSA: Obligation-Based Systems Assurance
+(Core Specification, Version 0.3.1-draft).
 https://github.com/substrata-labs/obsa
 ```
